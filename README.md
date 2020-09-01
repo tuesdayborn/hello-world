@@ -1,3 +1,4 @@
 # hello-world
 Here we go. 
-I am potato.
+
+console.log("I am potato.");
